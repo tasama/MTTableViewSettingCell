@@ -1,10 +1,8 @@
 Pod::Spec.new do |s|  
   s.name             = "MTTableViewSettingCell"  
   s.version          = "1.0.0"  
-  s.summary          = "MTTableViewSettingCell"  
-  s.description      = <<-DESC  
-                       It is a marquee view used on iOS, which implement by Objective-C.  
-                       DESC  
+  s.summary          = "MTTableViewSettingCell"    
+
   s.homepage         = "https://github.com/tasama/MTTableViewSettingCell"  
   # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"  
   s.license          = 'MIT'  
